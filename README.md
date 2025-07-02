@@ -27,3 +27,25 @@
 
 ## 📂 Project Structure
 
+Doclab/
+├── index.html
+├── css/
+│ └── main.scss
+├── js/
+│ └── main.js
+├── img/
+│ └── [images]
+└── README.md
+
+📘 What I Learned
+Organizing multipage-like content in a one-page layout
+
+Designing responsive sections with SCSS
+
+Smooth scroll and user-friendly structure
+
+Hosting and deploying websites via Vercel
+
+📬 Feedback
+Feel free to open an issue or suggest improvements.
+This project was developed as part of my frontend portfolio.
