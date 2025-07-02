@@ -1,5 +1,7 @@
 # Doclab – Dental Clinic Website
 
+![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 Welcome to the GitHub repository for **Doclab**, a modern and user-friendly website for a dental and medical clinic. This responsive website offers essential features for patients such as service listings, doctor profiles, appointment booking, and more.
 
 ## 🦷 About the Project
@@ -43,6 +45,3 @@ doclab-clinic/
 ├── readme-images/
 │ └── desktop-demo.png
 └── README.md
-
-
-![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
