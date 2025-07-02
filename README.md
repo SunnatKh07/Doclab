@@ -2,46 +2,28 @@
 
 ![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-Welcome to the GitHub repository for **Doclab**, a modern and user-friendly website for a dental and medical clinic. This responsive website offers essential features for patients such as service listings, doctor profiles, appointment booking, and more.
+# 🏥 Doclab — Medical Clinic Website
 
-## 🦷 About the Project
+**Doclab** is a professional and fully responsive medical clinic website created using **HTML5**, **SCSS**, and **JavaScript**. The website features a modern design with structured content, smooth section transitions, and a clean UI layout.
 
-Doclab is a clean and professional website template designed for a dental clinic or medical center. It offers intuitive navigation, elegant visuals, and functional sections such as a hero area, service listings, doctor directories, blog articles, and contact information.
+## 🔗 Live Demo
 
-## 💡 Key Features
+👉 [View the live site on Vercel](https://doclab.vercel.app) <!-- Замените, если ссылка другая -->
 
-- Responsive and mobile-friendly layout
-- Hero section with search functionality
-- List of medical services with icons
-- About Us section with clinic goals and strengths
-- Doctor listing by specialties
-- Blog section with latest medical articles
-- Contact section with emails, phone numbers, and map
-- Newsletter subscription form
-- Interactive mobile navigation (hamburger menu)
-- Social media integration
-
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - HTML5
-- CSS3
-- JavaScript (Vanilla)
-- SCSS (optional)
-- Ionicons (for icons)
-- Responsive image handling
-- Semantic markup for accessibility
+- SCSS (clean, modular styles)
+- JavaScript (for interactivity)
+- Vercel (deployment)
 
-## 📂 Folder Structure
+## 📦 Features
 
-doclab-clinic/
-├── index.html
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── images/
-│ │ └── (all project images including icons, banners, and background)
-│ └── js/
-│ └── main.js
-├── readme-images/
-│ └── desktop-demo.png
-└── README.md
+- 🏥 Modern and professional UI for clinics  
+- 📱 Fully responsive design (desktop and mobile)  
+- 📄 Multiple sections: Hero, Services, About Us, Blog, Contact  
+- 🎯 Scroll-based navigation and animations  
+- 💡 Semantic HTML & clean CSS structure
+
+## 📂 Project Structure
+
